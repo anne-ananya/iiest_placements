@@ -13,10 +13,11 @@ This project provides an interactive dashboard for analyzing placement data acro
   - `pandas`
   - `dash`
   - `plotly`
+## Deployed Links
+https://iiest-placements.onrender.com/
 
 To install the necessary dependencies, run:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
-## Deployed Links
-https://iiest-placements.onrender.com/
+
