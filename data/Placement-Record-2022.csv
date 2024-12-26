@@ -1,0 +1,171 @@
+SL,Date of Visit,Company Visited,Type of Offer,Eligible Students,Applied Students,Status,"Annual CTC
+Offered",CST,CST.1,ETC,ETC.1,ETC.2,EE,EE.1,EE.2,IT,IT.1,IT.2,ME,ME.1,ME.2,CE,CE.1,CE.2,MET,MET.1,MET.2,MIN,MIN.1,ARC,ARC.1,AERO,AERO.1,AERO.2,VLSI,Mat Science,Mechatronics,Food Proc.,REST,"Bio
+-
+Medical",Safety,Phys,Mths,Chem,MBA,Earth Science,Total
+,,,,,,,"Rs. In
+Lakh(p/ a)",UG,PG,UG,DD,PG,UG,DD,PG,UG,DD,PG,UG,DD,PG,UG,DD,PG,UG,DD,PG,UG,PG,UG,PG,UG,DD,AM PG,PG,PG,PG,PG,PG,PG,PG,PG,PG,PG,PG,PG,
+1.0,PPO,CESC Ltd.,,,,Offered,8.45,1,,,,,4,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+2.0,PPO,Microsoft IT India,,,,Offered,45,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+3.0,PPO,Wells Fargo EGS,,,,Offered,20,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+4.0,PPO,Microsoft IDC,,,,Offered,45,4,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+5.0,PPO,Deutsche Bank,,,,Offered,19.63,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+6.0,PPO,P W C,,,,Offered,8.12,,,1,,,,,,2,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+7.0,PPO,Texas Instruments,,,,Offered,22,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+8.0,PPO,Tata Steel Ltd.,,,,Offered,10.52,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,,,,,,,2.0
+9.0,PPO,Tata Steel Long Products Ltd.,,,,Offered,4.48,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1.0
+10.0,PPO,Tata Steel BSL Ltd.,,,,Offered,5.01,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+11.0,PPO,Vedanta Cairn Oil & Gas,,,,Offered,13.3,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+12.0,,Cognizant (Gen C Next),Software,285,154,Completed,6.75,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,0,,0,,,,,,,,,,0.0
+13.0,,Trilogy Innovations,Software,690,297,Completed,36.5,0,0,0,,0,0,,0,0,,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0.0
+14.0,,Wells Fargo EGS,Consulting,218,175,Offered,20,6,,0,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+15.0,,Zifo R&D Solutions,Core Engineering,9,8,Offered,4.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,2.0
+16.0,,Tata Consultancy Services (Digital),Software,,,Offered,7.3,3,,1,,1,,,,3,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0
+17.0,,Tata Consultancy Services (Ninja),ITES,,,Offered,3.53,1,,2,,,2,,,5,,,1,,,,,,,,1,,,,,1,,,,,1,,,1,,,1,,,,16.0
+18.0,,Mentor Graphics,Core Engineering,159,145,Offered,22.23,2,,0,,,0,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+19.0,,Amazon India,Software,236,178,Offered,11.62,1,0,1,0,,0,0,,2,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+20.0,,Deutsche Bank,Finance,170,142,Offered,19.63,3,,0,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+21.0,,P W C,Consulting,287,270,Offered,8.12,10,2,3,0,,3,0,,13,0,1,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.0
+22.0,,Atlassian,Software,193,127,Offered,26.57,3,,1,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+23.0,,ZS Associates,Consulting,407,314,Offered,12.84,2,,0,0,,5,0,,2,0,,1,0,,2,0,,0,0,,0,,,,0,,,,,,,,,,,,,,,12.0
+24.0,,Publicis Sapient,Core Engineering,131,95,Offered,10,0,,1,0,,,,,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+25.0,,Rebel Foods Pvt. Ltd.,Software,115,93,Offered,12,3,0,,,,,,,6,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.0
+26.0,,Shapoorji Pallonji & Co. Ltd.,Core Engineering,204,120,Offered,3.75,,,,,,0,,,,,,0,,,3,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+27.0,,Digite Infotech Pvt. Ltd.,Core Engineering,187,113,Offered,7.5,2,0,2,,,0,,,3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0
+28.0,,Capgemini (T 201),Consulting,563,340,Offered,7.5,6,3,6,0,2,2,0,1,4,0,2,5,0,0,8,0,0,4,0,0,,,,,4,0,,0,0,3,,,0,,,,,,,50.0
+29.0,,Ernst & Young India Pvt. Ltd.,Consulting,203,108,Offered,6.37,0,,1,,,1,,,1,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,5.0
+30.0,,Anchanto Services Pvt. Ltd.,Consulting,103,87,Offered,15,3,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+31.0,,Cognizant (Gen C),ITES,585,265,Offered,4,4,2,9,0,7,13,0,2,4,0,1,13,0,0,23,1,0,10,0,1,8,0,,,4,0,,1,1,5,,,,,,,,,,109.0
+32.0,,Cognizant (Gen C Elevate),ITES,255,96,Offered,4,2,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,2.0
+33.0,,Berger Paints India Ltd.,Sales,10,4,Completed,5.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0.0
+34.0,,Wipro Ltd.,ITES,420,268,Offered,3.6,1,,1,0,,4,0,,4,0,,2,0,,5,0,,4,0,,0,,,,2,0,,,,,,,,,,,,,,23.0
+35.0,,Media.Net (SDE),Core,245,123,Completed,29.92,0,0,0,,0,0,,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+36.0,,Infosys,ITES,669,358,Offered,3.6,1,0,1,0,1,4,0,1,2,0,3,2,0,1,8,0,0,2,0,1,1,0,,,2,0,1,2,1,0,,1,0,0,0,0,,,,35.0
+37.0,,Texas Instruments,Core,114,94,Offered,28.41,,,2,0,0,3,0,0,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,5.0
+38.0,,Accenture,Consulting,395,271,Offered,9.9,4,,1,,,4,,,2,,,1,,,4,,,0,,,1,,,,0,,,,,,,,,,,,,,,17.0
+39.0,,TEG Analytics,Consulting,403,254,Offered,6,0,,0,,,0,,,0,,,2,,,0,,,0,,,0,,,,0,,,,,,,,,,,,,,,2.0
+40.0,,IBM India,Consulting,247,143,Offered,8.1,5,1,0,,1,2,,0,5,,0,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,14.0
+41.0,,Josh Technology,Software,131,68,Completed,8,0,0,0,0,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+42.0,,Incture,Software,210,102,Offered,6,2,,1,,,1,,,3,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+43.0,,EXL Services,ITES,362,203,Offered,4,0,,0,,,1,,,0,,,0,,,1,,,0,,,1,,,,1,,,,,,,,,,,,,,,4.0
+44.0,,Tejas Network Ltd.,Software,79,38,Offered,8,2,0,0,0,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+45.0,,Veritas Technologies LLP,Software,73,54,Offered,12.5,3,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+46.0,,Hyundai Motor India Ltd.,Core Engineering,158,116,Offered,6.8,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,,,,,,,1,,,,,,,,,,1.0
+47.0,,JIO Platforms Ltd.,Core Engineering,61,31,Offered,6.02,1,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+48.0,,Cambium Networtks,Software,155,104,Offered,14.98,0,0,1,0,0,,,,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+49.0,,Deltax,Software,54,30,Completed,6,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+50.0,,Interra Systems Pvt. Ltd.,Software,129,74,Offered,10,1,2,0,0,0,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+51.0,,Bit Canny Technologies Pvt. Ltd.,Consulting,111,37,Offered,6,0,,1,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+52.0,,Telecom Regulatory Authority of India,Core Engineering,27,18,Offered,10.2,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+53.0,,VTOL AVIATION INDIA PVT. LTD.,Core Engineering,208,121,Nobody Shortlisted,N.A,0,0,,,,0,,0,,,,0,,0,,,,,,,,,,,0,,0,,,,,,,,,,,,,0.0
+54.0,,Tata Steel Long Products Ltd.,Core Engineering,20,18,Offered,4.5,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1.0
+55.0,,Optum- A United Health group,Software,23,17,Offered,11.98,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+56.0,,L&T Ltd. (GET),Core Engineering,269,152,Offered,6,0,,0,,,5,,,0,,,4,,,7,,,0,,,2,,1,,,,,,,,,,,,,,,,,19.0
+57.0,,L&T Ltd. (PGET),Core Engineering,85,64,Offered,6.3,,,,,,,,0,,,,,,0,,,2,,,0,,0,,,,,0,,,0,,2,,1,,,,,,5.0
+58.0,,Zensar Technologies,Software,99,36,Offered,7,0,,1,,,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+59.0,,FIS University,Software,43,24,Offered,8.6,0,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+60.0,,Willis Tower watson Co.,Software,103,61,Offered,12,0,,2,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+61.0,,Tata Electronics Ltd.,Core Engineering,6,6,Completed,6,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+62.0,,UBER,Software,201,136,Offered,8.8,0,0,0,0,0,0,0,0,1,0,0,,,,,,,,,,,,,,,,,0,,0,,,,,,,,,,1.0
+63.0,,BirlaSoft,Software,116,48,Offered,3.6,0,,0,,,0,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+64.0,,Abzooba,Software,58,40,Offered,8,1,0,,,,,,,0,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+65.0,,Capgemini (T 202)),Consulting,455,102,Offered,7.5,0,0,0,0,1,2,0,0,1,0,0,2,0,0,2,0,0,0,0,0,,,,,0,0,,0,0,0,,,0,,,,,,,8.0
+66.0,,Grey Orange Pte. Ltd.,Consulting,144,63,Offered,5,0,,0,,,1,,,0,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+67.0,,Tata Metaliks Ltd.,Core,21,20,Offered,N.A,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1.0
+68.0,,Anandpush Technologies Pvt. Ltd.,Software,108,48,Offered,5,0,0,,,,,,,0,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+69.0,,Worley India Pvt. Ltd.,Core Engineering,84,53,Offered,N.A,,,,,,0,,,,,,0,,,2,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+70.0,,221B Baker Street,ITES,601,206,Offered,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1.0
+71.0,,Aditya Birla Group,Core Engineering,114,92,Offered,6,,,,,,4,,,,,,3,,,,,,4,,,,,,,,,,,,,,,,,,,,,,11.0
+72.0,,Johnson Controls India (GET),Core Engineering,42,18,Completed,5.41,0,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+73.0,,Johnson Controls India (MET),Core Engineering,11,8,Completed,11.09,,0,,,,,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+74.0,,Linde India Ltd.(Only for Female),Core Engineering,14,8,Pending,N.A,,,,,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+75.0,,Aakash Institute,Education,554,268,Completed,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,,,,0,,0,,0,0,0,,0,0.0
+76.0,,Hitachi Vantara LLC,Consulting,30,11,Completed,6.5,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+77.0,,Saint-Gobain India,Core Engineering,121,47,Offered,6.8,0,0,0,,0,0,,0,0,,0,1,,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,1.0
+78.0,,Vedanta Cairn Oil & Gas,"Core
+Engineering",22,20,Offered,13.3,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,1.0
+79.0,,Factwise Tech Pvt. Ltd.,Consulting,138,43,Completed,6,0,0,0,0,,0,0,,0,0,0,0,0,,0,0,,0,0,,0,,,,0,0,0,,,,,,,,,,,,,0.0
+80.0,,Haldia Petrochemicals Ltd.,Core Engineering,87,59,Offered,5.11,,,,,,1,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+81.0,,Ericsson Global Services India,Consulting,60,32,Offered,6.75,0,,0,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+82.0,,Mercedes-Benz Research & Development India,Core Engineering,57,51,Offered,12,,0,,,,,,1,,,1,,,0,,,,,,,,,,,,,,,,1,,,,,,,,,,3.0
+83.0,,Byju's (Academic Specialist),Education,52,22,Offered,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,0,3,0,,0,4.0
+84.0,,HCL Technologies (PGET/ SSE),Software,12,8,Offered,6,,3,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.0
+85.0,,HCL Technologies (GET/ SE),Software,101,32,Offered,5.5,0,,0,,,0,,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+86.0,,Wood India Engineering & Projects Pvt. Ltd.,Core Engineering,59,30,Pending,,,,0,,,0,,,,,,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+87.0,,Runaya Group,Core Engineering,68,39,Pending,5.5,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,,0.0
+88.0,,WSP,"Core
+Engineering",9,7,Offered,5.75,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,1.0
+89.0,,Dynamic Digital Technologies Pvt.,Software,46,12,Offered,8,0,,0,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+90.0,,Senrysa Technologies Pvt. Ltd.,Software,68,29,Pending,10,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+91.0,,HCL Technologies Ltd. (Medical,Software,7,3,Pending,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,0.0
+92.0,,HoiChoi Technology Pvt. Ltd.,Core Engineering,56,21,Pending,8,0,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+93.0,,JSW Group,Core Engineering,326,,Completed,13,0,,,,,0,,,0,,,0,,,0,,,0,,,0,,,,,,,,,,,,,,,,,,,0.0
+94.0,,Tata Consultance Services (GET-,R & D,101,53,Offered,9,0,,3,,,0,,,0,,,0,,,0,,,0,,,0,,,,0,,,,,,,,,,,,,,,3.0
+95.0,,Tata Consultance Services (PGET-,R & D,137,81,Offered,11.5,,0,,,1,,,0,,,0,,,0,,,0,,,0,,0,,,,,,0,0,0,,0,0,0,,,,,,1.0
+96.0,,Tata Steel Ltd. (MT- Technical),Core Engineering,90,71,Nobody Shortlisted,11.88,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+97.0,,Bajaj Auto Ltd.,Core Engineering,10,10,Offered,9.58,,,,,,,,,,,,,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,3.0
+98.0,,Think Future Technologies Pvt. Ltd.,ITES,44,18,Offered,4.02,0,0,,,,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+99.0,,Samsung R&D Institute India,Core Engineering,119,96,Offered,14.5,9,0,4,0,0,,,,9,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.0
+100.0,,Itobuz Technologies Pvt. Ltd.,Software,22,9,Completed,6,0,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+101.0,,Daikin Air-Conditioning India Pvt. Ltd.,Core Engineering,41,22,Pending,4.5,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+102.0,,HCDS Technologies,Software,235,134,Offered,12,0,0,,,,0,0,0,0,0,0,0,0,,0,0,0,,,,,,,,,,,,,,,0,1,0,,,,,,1.0
+103.0,,Citius Tech,Software,44,17,Offered,6.5,2,,0,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0
+104.0,,Exide Industries Ltd.,Core Engineering,6,5,Completed,5,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,0.0
+105.0,,SUBEX Ltd.,Software,N.A,N.A,Offered,10,4,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+106.0,,Gainwell Commosales Pvt. Ltd.,Core Engineering,81,49,Offered,5.5,,,1,,,0,,,,,,2,,,,,,,,,1,,,,,,,,,,,,,,,,,,,4.0
+107.0,,Tata Consulting Engineers Ltd.,Core Engineering,262,152,Offered,5,0,,0,,,5,,0,,,,5,,4,2,,2,,,0,,,2,0,,,0,,,,,3,,,,,,,,23.0
+108.0,,Sterlite Technologies (GET),Software,30,13,Offered,8,2,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+109.0,,Sterlite Technologies (PGET),Core Engineering,9,8,Nobody Shortlisted,10,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+110.0,,Samsung Research Institute- Delhi,Core Engineering,95,65,Offered,15.5,2,,,,,0,0,,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+111.0,,HSBC India (GET),Finance,242,175,Offered,9.5,0,,1,,,2,,,0,,,1,,,3,,,1,,,3,,,,1,,,,,,,,,,,,,,,12.0
+112.0,,HSBC India (PGET),Finance,194,130,Offered,10.5,,0,,,0,,,1,,,0,,,2,,,0,,,0,,0,,,,,0,0,1,1,,0,0,0,,,,,,5.0
+113.0,,LatentView Analytics,Consulting,423,293,Offered,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,0,0,0,0,1,,0,0,0,,0,,0,,1.0
+114.0,,Maruti Suzuki India Ltd.,Core,36,26,Pending,7.9,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+115.0,,Bentley Systems,Software,12,4,Pending,8.2,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+116.0,,Media.Net (SRE),Software,136,67,Offered,15.77,0,1,0,,0,,,,0,,0,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,1.0
+117.0,,Shristi Infra Corp,Core Engineering,71,38,Pending,4.5,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+118.0,,ITD Cementation,Core Engineering,132,64,Offered,3.61,,,,,,0,,,,,,0,,,5,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+119.0,,Jindal Stainless Ltd.,Core Engineering,108,85,Pending,7,,,0,,,0,,0,,,,0,,0,,,,0,,0,,,,,,,,,,,,,,,,,,,,0.0
+120.0,,Aditya Birla Group (Mining),Core Engineering,20,15,Offered,6,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,3.0
+121.0,,Tata Power Ltd.,Core Engineering,161,107,Offered,6.06,,,1,,,2,,,0,,,2,,,1,,,,,,,,,,,,,,,,,,,,,,,,,6.0
+122.0,,Tata Digital Ltd.,Software,126,74,Offered,15,0,0,0,,,1,,,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0
+123.0,,Mapline,Software,25,10,Pending,3.6,0,0,,,,,,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+124.0,,P W C (Technology Consultant),Consulting,433,294,Offered,8,0,0,0,,0,2,,0,0,,0,1,,1,6,,0,3,,1,3,0,,,2,,1,1,0,0,,0,0,0,,,,,,21.0
+125.0,,Lexmark International India Pvt. Ltd.,Software,42,17,Completed,10.5,0,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+126.0,,IndianOil Petronas Pvt. Ltd.,Core Engineering,70,42,Pending,5.72,,,0,,0,0,,0,,,,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+127.0,,MindTree,Software,201,41,Offered,4,0,,0,,,0,,,0,,,1,,,4,,,0,,,0,,,,1,,,,,,,,,,,,,,,6.0
+128.0,,Tata Consultancy Services,Consulting,N.A,N.A,Offered,9,1,,0,,,0,,,1,,,1,,,3,,,0,,,0,,,,2,,,,,,,,,,,,,,,8.0
+129.0,,Tata Consultancy Services (post,Consulting,N.A,N.A,Offered,11.5,,,,,1,,,1,,,,,,,,,,,,1,,,,,,,1,,,2,,,,,,,,,,6.0
+130.0,,JIO Platforms Ltd. (2),Core Engineering,193,88,Offered,6.02,0,,0,,,0,,,0,,,1,,,0,,,0,,,0,,,,0,,,,,,,,,,,,,,,1.0
+131.0,,Haldia Energy Limited,Core Engineering,36,17,Pending,8.5,,,,,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+132.0,,SMS India Pvt. Ltd.,Core Engineering,62,26,Offered,4.5,,,0,,,2,,,,,,0,,,,,,1,,,,,,,,,,,,,,,,,,,,,,3.0
+133.0,,DX Corr Hardware Technologies Pvt. Ltd.,Core Engineering,40,23,Offered,4.75,,,2,,4,,,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,,,14.0
+134.0,,Tata Bluescope Steel (Female),"Core
+Engineering",4,4,Pending,4.7,,,,,,,,,,,,0,,,,,,0,,,,,,,,,,,,,,,,,,,,,,0.0
+135.0,,Adani Group,Core Engineering,14,12,Offered,7,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,4.0
+136.0,,Amazon India,Software,180,99,Pending,25,0,0,0,,0,0,,0,0,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+137.0,,Vedanta Ltd.,Core Engineering,25,18,Offered,11..95,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,5.0
+138.0,,Shristi Infra Corp,Core Engineering,4,2,Offered,4.5,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,1.0
+139.0,,Oracle Corporation,Software,146,75,Offered,16.64,2,0,0,,0,0,,0,3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0
+140.0,,ImpactGuru,Marketing,18,9,Offered,6.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,3.0
+141.0,,Swym Technologies Pvt. Ltd.,Software,78,32,Pending,6,0,0,0,0,,0,0,,0,0,0,0,,,,,,,,,,,,,,,,,0,,,,,,,0,,,,0.0
+142.0,,HIS Markit,Software,32,15,Pending,12.6,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+143.0,,"Samsung Research Institute-
+Bangalore","Core
+Engineering",89,54,Completed,7.5,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+144.0,,Concentrix Catalyst,Software,112,42,Offered,8,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,0,0,0,,1,,,,,,,,1.0
+145.0,,Byju's (Faculty),Education,201,45,Offered,3.6,0,,0,,,0,,,0,,,0,,,0,,,1,,,1,,,,0,,,,,,0,,,,1,1,0,,0,4.0
+146.0,,BuyerForesight,Sales,16,8,Pending,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0.0
+147.0,,Tega Industries Ltd.,Core Engineering,48,26,Pending,6.5,,,,,,,,,,,,0,,,,,,0,,,0,,,,,,,,,,,,,,,,,,,0.0
+148.0,,Primetals Technologies India Pvt. Ltd.,Core Engineering,4,2,Pending,6,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+149.0,,Infosys (DSE),Software,N.A,N.A,Offered,8,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0
+150.0,,Maruti Suzuki India Ltd. (M.Tech),Core Engineering,9,8,Completed,9.75,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+151.0,,Capgemini (T 203),Consulting,314,186,Offered,7.5,0,0,1,0,0,3,0,1,1,0,0,2,0,0,12,0,0,1,0,1,1,0,,,1,0,,0,0,1,,,2,,,,,,,27.0
+152.0,,KION- Dematics,Core Engineering,42,15,Offered,5,,,,,,5,0,,,,,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,7.0
+153.0,,Nationa Informatics Centre,Software,17,7,Pending,4.5,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+154.0,,GE Digital,Software,52,39,Pending,17.31,0,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+155.0,,M.N Dastur & Co. Pvt. Ltd.,"Core
+Engineering",100,,Pending,5,,,,,,0,,,,,,0,,,0,,,0,,,,,,,,,,,,,,,,,,,,,,0.0
+156.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Offers as on 24.05.2022,,,,,,104,15,59,0,19,87,0,8,110,0,18,77,0,11,101,1,5,42,0,6,30,0,4,0,21,0,3,12,3,16,3,7,4,1,1,5,0,3,0,776.0
+,,NO. OF COMPANY VISITED FOR DIFFERENT BRANCHES,,,,,,94,45,79,26,31,76,24,34,90,31,43,64,19,24,33,12,17,37,12,18,28,11,5,2,24,11,12,18,13,19,6,11,14,9,6,10,5,4,5,
+,,ELIGIBLE / INTERESTED BATCH SIZE,,,,,,73,12,48,2,27,72,1,12,75,1,14,75,1,22,96,3,45,28,1,6,27,14,7,2,32,1,21,17,5,16,11,13,12,6,11,23,5,19,3,
