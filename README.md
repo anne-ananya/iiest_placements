@@ -16,7 +16,7 @@ This project provides an interactive dashboard for analyzing placement data acro
 
 To install the necessary dependencies, run:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Deployed Links
 https://iiest-placements.onrender.com/
