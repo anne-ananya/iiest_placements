@@ -15,6 +15,7 @@ convert_xlsx_to_csv(data_folder)
 
 # Initialize the Dash app
 app = Dash(__name__)
+server = app.server
 app.title = "Campus Placement Dashboard"
 
 # Suppress callback exceptions
